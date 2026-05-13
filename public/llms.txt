@@ -1,0 +1,108 @@
+# HANEEN KARMANJI — Generative Engine Optimization Map
+
+> HANEEN KARMANJI is a high-end feminine fashion and beauty brand that blends style, quality, and a sense of luxury into a cohesive boutique experience. The brand exudes softness, elegance, and modernity, offering curated collections across jewelry, bags, clothing, perfumes, and skincare. The visual identity is rooted in a minimalist, clean aesthetic with a warm palette of beige, white, soft pink, and gold accents — evoking a premium luxury boutique atmosphere. The website is designed in Hebrew (RTL) and targets women who appreciate refined, elegant style and a seamless, premium online shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכות הבאות לחוויית הקניות הפרימיום ביותר. תכשיטים, בגדים, בשמים וטיפוח עור — כל מה שאת צריכה בסגנון אלגנטי ומודרני. fashion of beauty במיטבו.
+
+### אודות המותג
+https://example.com/about
+HANEEN KARMANJI נולדה מתוך אהבה עמוקה לאסתטיקה נשית עדינה. גלי את הערכים, החזון והתשוקה שהפכו את המותג לחוויית fashion and beauty websites שאין כמותה.
+
+### חוויית הקולקציות
+https://example.com/collections-experience
+חווי עולם שלם של beauty beast fashion עם קולקציות מאוצרות של תכשיטים, תיקים, בגדים ובשמים. כל פריט נבחר בקפידה כדי להעניק לך תחושת יוקרה בלתי נשכחת.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד? צוות HANEEN KARMANJI כאן בשבילך. צרי קשר עכשיו וקבלי שירות אישי ברמה של fashion and beauty websites מהשורה הראשונה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - HANEEN KARMANJI
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - HANEEN KARMANJI
+
+### Category
+https://example.com/category/:slug
+מוצרים - HANEEN KARMANJI
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HANEEN KARMANJI
+HANEEN KARMANJI is a high-end feminine fashion and beauty brand that blends style, quality, and a sense of luxury into a cohesive boutique experience. The brand exudes softness, elegance, and modernity, offering curated collections across jewelry, bags, clothing, perfumes, and skincare. The visual identity is rooted in a minimalist, clean aesthetic with a warm palette of beige, white, soft pink, and gold accents — evoking a premium luxury boutique atmosphere. The website is designed in Hebrew (RTL) and targets women who appreciate refined, elegant style and a seamless, premium online shopping experience.
+
+## Services/Products
+- תכשיטים (Jewelry)
+- תיקים (Bags)
+- בגדים (Clothing)
+- בשמים (Perfumes)
+- מוצרי טיפוח ויופי (Beauty & Skincare)
+
+## Target Audience
+- Women seeking luxury, elegant fashion and beauty products
+- נשים המחפשות אופנה יוקרתית
+- משפיעניות אופנה ובלוגריות
+- נשים קרייריסטיות במטרופולין
+
+## Industry
+Fashion & Beauty
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
