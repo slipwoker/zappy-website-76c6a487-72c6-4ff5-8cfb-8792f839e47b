@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://example.com
+https://haneen-karmanji.zappy5.app
 ברוכות הבאות לחוויית הקניות הפרימיום ביותר. תכשיטים, בגדים, בשמים וטיפוח עור — כל מה שאת צריכה בסגנון אלגנטי ומודרני. fashion of beauty במיטבו.
 
 ### אודות המותג
-https://example.com/about
+https://haneen-karmanji.zappy5.app/about
 HANEEN KARMANJI נולדה מתוך אהבה עמוקה לאסתטיקה נשית עדינה. גלי את הערכים, החזון והתשוקה שהפכו את המותג לחוויית fashion and beauty websites שאין כמותה.
 
 ### חוויית הקולקציות
-https://example.com/collections-experience
+https://haneen-karmanji.zappy5.app/collections-experience
 חווי עולם שלם של beauty beast fashion עם קולקציות מאוצרות של תכשיטים, תיקים, בגדים ובשמים. כל פריט נבחר בקפידה כדי להעניק לך תחושת יוקרה בלתי נשכחת.
 
 ### צור קשר
-https://example.com/contact
+https://haneen-karmanji.zappy5.app/contact
 יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד? צוות HANEEN KARMANJI כאן בשבילך. צרי קשר עכשיו וקבלי שירות אישי ברמה של fashion and beauty websites מהשורה הראשונה.
 
 ### Products
-https://example.com/products
+https://haneen-karmanji.zappy5.app/products
 המוצרים שלנו - HANEEN KARMANJI
 
 ### Cart
-https://example.com/cart
+https://haneen-karmanji.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://haneen-karmanji.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://haneen-karmanji.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://haneen-karmanji.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://haneen-karmanji.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://haneen-karmanji.zappy5.app/product/:slug
 פרטי המוצר - HANEEN KARMANJI
 
 ### Category
-https://example.com/category/:slug
+https://haneen-karmanji.zappy5.app/category/:slug
 מוצרים - HANEEN KARMANJI
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://haneen-karmanji.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://haneen-karmanji.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://haneen-karmanji.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Fashion & Beauty
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://haneen-karmanji.zappy5.app/sitemap.xml
+- Robots: https://haneen-karmanji.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://haneen-karmanji.zappy5.app/llms-full.txt
+- Products (JSON): https://haneen-karmanji.zappy5.app/products.json
+- Products (Google Merchant RSS): https://haneen-karmanji.zappy5.app/product-feed.xml
