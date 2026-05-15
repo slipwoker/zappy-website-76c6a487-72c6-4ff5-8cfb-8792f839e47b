@@ -1,8 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-15T14:13:40.464Z",
+  "generated_at": "2026-05-15T14:28:01.087Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "1ba84c45-f175-4884-b462-2c71c5240440",
+      "slug": "necklace-18k-gold-plated-steel-mrsv5i",
+      "name": "Necklace, 18K Gold Plated Steel",
+      "name_translations": {
+        "en": "Necklace, 18K Gold Plated Steel",
+        "he": "שרשרת, פלדה מצופה זהב 18K"
+      },
+      "description": "<p><strong>HANEEN KARMANJI Necklace</strong></p><p><br></p><p>A delicate and elegant necklace designed to add a soft luxury touch to your everyday style.</p><p><br></p><p>Details:</p><p>Material: Stainless steel with gold plating</p><p>Closure Type: Lobster claw</p><p>Stone: Cubic zirconia</p><p>Necklace Length: 41 + 5 cm extension</p><p>Pendant Size: 1.5 × 1.3 cm</p><p>Weight: 3 g</p><p><br></p><p>Crafted to be <strong>waterproof</strong>, <strong>hypoallergenic</strong>, and comfortable for daily wear. The gold plating is designed to stay beautiful, with<strong> long-lasting shine and tarnish-resistant quality.</strong></p>",
+      "short_description": "Elegant HANEEN KARMANJI necklace in gold-plated stainless steel with cubic zirconia. Waterproof, hypoallergenic, and tarnish-resistant for everyday wear.",
+      "sku": "HK-N001",
+      "brand": "HANEEN KARMANJI",
+      "price": 99,
+      "base_price": 130,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://www.haneenkarmanji.com/assets/product-ai-fit-1778855194337-z3nz8i.webp",
+        "https://www.haneenkarmanji.com/assets/product-1778854739136-o3y6kc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-mrsv5i",
+      "categories": [
+        "תכשיטים"
+      ],
+      "updated_at": "2026-05-15T14:27:30.225Z"
+    }
+  ]
 }

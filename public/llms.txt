@@ -72,7 +72,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### Necklace, 18K Gold Plated Steel
+https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-mrsv5i
+- Price: 99.00 ILS (sale, was 130.00 ILS)
+- Availability: In stock
+- Category: תכשיטים
+- SKU: HK-N001
+- Brand: HANEEN KARMANJI
+- Description: Elegant HANEEN KARMANJI necklace in gold-plated stainless steel with cubic zirconia. Waterproof, hypoallergenic, and tarnish-resistant for everyday wear.
+- Image: https://www.haneenkarmanji.com/assets/product-ai-fit-1778855194337-z3nz8i.webp
 
 ---
 
