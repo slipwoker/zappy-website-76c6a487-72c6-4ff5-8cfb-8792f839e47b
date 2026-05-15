@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://haneen-karmanji.zappy5.app
+https://www.haneenkarmanji.com
 ברוכות הבאות לחוויית הקניות הפרימיום ביותר. תכשיטים, בגדים, בשמים וטיפוח עור — כל מה שאת צריכה בסגנון אלגנטי ומודרני. fashion of beauty במיטבו.
 
 ### אודות המותג
-https://haneen-karmanji.zappy5.app/about
+https://www.haneenkarmanji.com/about
 HANEEN KARMANJI נולדה מתוך אהבה עמוקה לאסתטיקה נשית עדינה. גלי את הערכים, החזון והתשוקה שהפכו את המותג לחוויית fashion and beauty websites שאין כמותה.
 
 ### חוויית הקולקציות
-https://haneen-karmanji.zappy5.app/collections-experience
+https://www.haneenkarmanji.com/collections-experience
 חווי עולם שלם של beauty beast fashion עם קולקציות מאוצרות של תכשיטים, תיקים, בגדים ובשמים. כל פריט נבחר בקפידה כדי להעניק לך תחושת יוקרה בלתי נשכחת.
 
 ### צור קשר
-https://haneen-karmanji.zappy5.app/contact
+https://www.haneenkarmanji.com/contact
 יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד? צוות HANEEN KARMANJI כאן בשבילך. צרי קשר עכשיו וקבלי שירות אישי ברמה של fashion and beauty websites מהשורה הראשונה.
 
 ### Products
-https://haneen-karmanji.zappy5.app/products
+https://www.haneenkarmanji.com/products
 המוצרים שלנו - HANEEN KARMANJI
 
 ### Cart
-https://haneen-karmanji.zappy5.app/cart
+https://www.haneenkarmanji.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://haneen-karmanji.zappy5.app/checkout
+https://www.haneenkarmanji.com/checkout
 תשלום
 
 ### Login
-https://haneen-karmanji.zappy5.app/login
+https://www.haneenkarmanji.com/login
 התחברות לקוחות
 
 ### Account
-https://haneen-karmanji.zappy5.app/account
+https://www.haneenkarmanji.com/account
 החשבון שלי
 
 ### Order Success
-https://haneen-karmanji.zappy5.app/order-success
+https://www.haneenkarmanji.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://haneen-karmanji.zappy5.app/product/:slug
+https://www.haneenkarmanji.com/product/:slug
 פרטי המוצר - HANEEN KARMANJI
 
 ### Category
-https://haneen-karmanji.zappy5.app/category/:slug
+https://www.haneenkarmanji.com/category/:slug
 מוצרים - HANEEN KARMANJI
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://haneen-karmanji.zappy5.app/privacy
+https://www.haneenkarmanji.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://haneen-karmanji.zappy5.app/terms
+https://www.haneenkarmanji.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://haneen-karmanji.zappy5.app/accessibility
+https://www.haneenkarmanji.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Fashion & Beauty
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://haneen-karmanji.zappy5.app/sitemap.xml
-- Robots: https://haneen-karmanji.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://haneen-karmanji.zappy5.app/llms-full.txt
-- Products (JSON): https://haneen-karmanji.zappy5.app/products.json
-- Products (Google Merchant RSS): https://haneen-karmanji.zappy5.app/product-feed.xml
+- Sitemap (XML): https://www.haneenkarmanji.com/sitemap.xml
+- Robots: https://www.haneenkarmanji.com/robots.txt
+- Flattened page text (for LLMs): https://www.haneenkarmanji.com/llms-full.txt
+- Products (JSON): https://www.haneenkarmanji.com/products.json
+- Products (Google Merchant RSS): https://www.haneenkarmanji.com/product-feed.xml

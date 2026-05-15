@@ -2,13 +2,13 @@
 
 HANEEN KARMANJI is a high-end feminine fashion and beauty brand that blends style, quality, and a sense of luxury into a cohesive boutique experience. The brand exudes softness, elegance, and modernity, offering curated collections across jewelry, bags, clothing, perfumes, and skincare. The visual identity is rooted in a minimalist, clean aesthetic with a warm palette of beige, white, soft pink, and gold accents — evoking a premium luxury boutique atmosphere. The website is designed in Hebrew (RTL) and targets women who appreciate refined, elegant style and a seamless, premium online shopping experience.
 
-Source: https://haneen-karmanji.zappy5.app
+Source: https://www.haneenkarmanji.com
 
 ---
 
 ## fashion of beauty — HANEEN KARMANJI
 
-URL: https://haneen-karmanji.zappy5.app
+URL: https://www.haneenkarmanji.com
 Description: ברוכות הבאות לחוויית הקניות הפרימיום ביותר. תכשיטים, בגדים, בשמים וטיפוח עור — כל מה שאת צריכה בסגנון אלגנטי ומודרני. fashion of beauty במיטבו.
 
 fashion of beauty — HANEEN KARMANJI
@@ -714,7 +714,7 @@ Fashion & Beauty
 
 ## הסיפור שמאחורי היופי והסגנון — HANEEN KARMANJI
 
-URL: https://haneen-karmanji.zappy5.app/about
+URL: https://www.haneenkarmanji.com/about
 Description: HANEEN KARMANJI נולדה מתוך אהבה עמוקה לאסתטיקה נשית עדינה. גלי את הערכים, החזון והתשוקה שהפכו את המותג לחוויית fashion and beauty websites שאין כמותה.
 
 הסיפור שמאחורי היופי והסגנון — HANEEN KARMANJI
@@ -1215,7 +1215,7 @@ Fashion & Beauty
 
 ## שקעי בקולקציות שיגנבו את לבך — HANEEN KARMANJI
 
-URL: https://haneen-karmanji.zappy5.app/collections-experience
+URL: https://www.haneenkarmanji.com/collections-experience
 Description: חווי עולם שלם של beauty beast fashion עם קולקציות מאוצרות של תכשיטים, תיקים, בגדים ובשמים. כל פריט נבחר בקפידה כדי להעניק לך תחושת יוקרה בלתי נשכחת.
 
 שקעי בקולקציות שיגנבו את לבך — HANEEN KARMANJI
@@ -1925,7 +1925,7 @@ Fashion & Beauty
 
 ## דברי איתנו ותרגישי את ההבדל — HANEEN KARMANJI
 
-URL: https://haneen-karmanji.zappy5.app/contact
+URL: https://www.haneenkarmanji.com/contact
 Description: יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד? צוות HANEEN KARMANJI כאן בשבילך. צרי קשר עכשיו וקבלי שירות אישי ברמה של fashion and beauty websites מהשורה הראשונה.
 
 דברי איתנו ותרגישי את ההבדל — HANEEN KARMANJI
@@ -2447,7 +2447,7 @@ Fashion & Beauty
 
 ## מוצרים
 
-URL: https://haneen-karmanji.zappy5.app/products
+URL: https://www.haneenkarmanji.com/products
 Description: המוצרים שלנו - HANEEN KARMANJI
 
 מוצרים - HANEEN KARMANJI
@@ -2695,7 +2695,7 @@ Fashion & Beauty
 
 ## עגלת קניות
 
-URL: https://haneen-karmanji.zappy5.app/cart
+URL: https://www.haneenkarmanji.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - HANEEN KARMANJI
@@ -2919,7 +2919,7 @@ Fashion & Beauty
 
 ## תשלום
 
-URL: https://haneen-karmanji.zappy5.app/checkout
+URL: https://www.haneenkarmanji.com/checkout
 Description: תשלום
 
 תשלום - HANEEN KARMANJI
@@ -3326,7 +3326,7 @@ Fashion & Beauty
 
 ## התחברות
 
-URL: https://haneen-karmanji.zappy5.app/login
+URL: https://www.haneenkarmanji.com/login
 Description: התחברות לקוחות
 
 התחברות - HANEEN KARMANJI
@@ -3557,7 +3557,7 @@ Fashion & Beauty
 
 ## החשבון שלי
 
-URL: https://haneen-karmanji.zappy5.app/account
+URL: https://www.haneenkarmanji.com/account
 Description: החשבון שלי
 
 החשבון שלי - HANEEN KARMANJI
@@ -3943,7 +3943,7 @@ Fashion & Beauty
 
 ## ההזמנה התקבלה!
 
-URL: https://haneen-karmanji.zappy5.app/order-success
+URL: https://www.haneenkarmanji.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - HANEEN KARMANJI
@@ -4191,7 +4191,7 @@ Fashion & Beauty
 
 ## מדיניות החזרות
 
-URL: https://haneen-karmanji.zappy5.app/return-policy
+URL: https://www.haneenkarmanji.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - HANEEN KARMANJI
@@ -4468,7 +4468,7 @@ Fashion & Beauty
 
 ## פרטי המוצר
 
-URL: https://haneen-karmanji.zappy5.app/product/:slug
+URL: https://www.haneenkarmanji.com/product/:slug
 Description: פרטי המוצר - HANEEN KARMANJI
 
 פרטי המוצר - HANEEN KARMANJI
@@ -4694,7 +4694,7 @@ Fashion & Beauty
 
 ## מוצרים
 
-URL: https://haneen-karmanji.zappy5.app/category/:slug
+URL: https://www.haneenkarmanji.com/category/:slug
 Description: מוצרים - HANEEN KARMANJI
 
 מוצרים - HANEEN KARMANJI
@@ -4944,7 +4944,7 @@ Fashion & Beauty
 
 ## מדיניות פרטיות
 
-URL: https://haneen-karmanji.zappy5.app/privacy
+URL: https://www.haneenkarmanji.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5213,7 +5213,7 @@ Fashion & Beauty
 
 ## הצהרת נגישות
 
-URL: https://haneen-karmanji.zappy5.app/accessibility
+URL: https://www.haneenkarmanji.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5491,7 +5491,7 @@ Fashion & Beauty
 
 ## תנאי שימוש
 
-URL: https://haneen-karmanji.zappy5.app/terms
+URL: https://www.haneenkarmanji.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

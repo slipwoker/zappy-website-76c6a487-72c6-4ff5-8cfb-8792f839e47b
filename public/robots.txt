@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://haneen-karmanji.zappy5.app/sitemap.xml
+Sitemap: https://www.haneenkarmanji.com/sitemap.xml
