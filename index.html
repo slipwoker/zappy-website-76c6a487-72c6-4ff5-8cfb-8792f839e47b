@@ -233,8 +233,8 @@
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
-    .skip-link { position: absolute; transform: translateY(-200%); left: 0; top: 0; padding: 12px 18px; background: var(--bg-dark, #1a1a1a); color: var(--text-light, #fff); font-weight: 600; border-radius: 0 0 8px 0; z-index: 10000; }
-    .skip-link:focus { transform: none; outline: 2px solid var(--ring, #fff); outline-offset: 2px; }
+    .skip-link { position: absolute; left: -9999px; top: 0; padding: 12px 18px; background: var(--bg-dark, #1a1a1a); color: var(--text-light, #fff); font-weight: 600; border-radius: 0 0 8px 0; z-index: 10000; }
+    .skip-link:focus { left: 0; outline: 2px solid var(--ring, #fff); outline-offset: 2px; }
     :focus-visible { outline: 2px solid var(--ring, currentColor); outline-offset: 3px; }
   </style>
 
@@ -633,7 +633,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "76c6a487-72c6-4ff5-8cfb-8792f839e47b";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "76c6a487-72c6-4ff5-8cfb-8792f839e47b";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1134,7 +1134,7 @@
     <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Background Image -->
   <div class="index-hero-bg-wrapper">
-    <img data-hero-bg="true" data-context="Elegant luxury fashion editorial: a poised woman in a refined beige and ivory ensemble, soft draped fabric, gold jewelry accents, standing in a minimalist high-end boutique setting with warm natural light, airy atmosphere, cream and warm white tones, premium fashion photography style" width="1440" height="900" src="/assets/haneen-karmanji-fashion-beauty-section-בית-hero-index-hero-image-1.webp" alt="אישה אלגנטית לובשת אופנה יוקרתית של HANEEN KARMANJI" class="index-hero-bg-img" data-hero-background="true" data-element-type="image" data-element-id="img-1778857274386-mulphu1rp">
+    <img data-hero-bg="true" data-context="Elegant luxury fashion editorial: a poised woman in a refined beige and ivory ensemble, soft draped fabric, gold jewelry accents, standing in a minimalist high-end boutique setting with warm natural light, airy atmosphere, cream and warm white tones, premium fashion photography style" width="1440" height="900" src="/assets/haneen-karmanji-fashion-beauty-section-בית-hero-index-hero-image-1.webp" alt="אישה אלגנטית לובשת אופנה יוקרתית של HANEEN KARMANJI" class="index-hero-bg-img" data-zappy-editable-image="true" data-hero-background="true" data-element-type="image" data-element-id="img-1778857274386-mulphu1rp">
   </div>
 
   <!-- Scrim Overlay -->
@@ -1269,7 +1269,7 @@
       <!-- Card 2: תיקים -->
       <article class="index-cat-card index-cat-card--bags" data-grid-item-index="1">
         <div class="index-cat-image-wrap">
-          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-2" data-context="Luxury designer handbags collection styled on a soft blush background — structured tote bags, small evening clutches, and crossbody bags in neutral beige, tan, and soft pink leather. Editorial fashion photography, clean minimalist styling." width="600" height="800" src="/assets/site-index-categories-image-2.webp" alt="תיקים אופנתיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-6fdto3prr" >
+          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-2" data-context="Luxury designer handbags collection styled on a soft blush background — structured tote bags, small evening clutches, and crossbody bags in neutral beige, tan, and soft pink leather. Editorial fashion photography, clean minimalist styling." width="600" height="800" src="/assets/site-index-categories-image-2.webp" alt="תיקים אופנתיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-6fdto3prr" style="">
           <div class="index-cat-image-overlay" aria-hidden="true"></div>
         </div>
         <div class="index-cat-body">
@@ -1285,7 +1285,7 @@
       <!-- Card 3: בגדים -->
       <article class="index-cat-card index-cat-card--clothing" data-grid-item-index="2">
         <div class="index-cat-image-wrap">
-          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-3" data-context="Elegant feminine clothing collection styled in a bright minimalist studio — flowing midi dresses, tailored blazers, and soft knit tops in cream, ivory, and dusty rose. Model poses gracefully, premium fashion editorial mood." width="600" height="800" src="/assets/site-index-categories-image-3.webp" alt="בגדים נשיים אלגנטיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-17dk6nde3" >
+          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-3" data-context="Elegant feminine clothing collection styled in a bright minimalist studio — flowing midi dresses, tailored blazers, and soft knit tops in cream, ivory, and dusty rose. Model poses gracefully, premium fashion editorial mood." width="600" height="800" src="/assets/site-index-categories-image-3.webp" alt="בגדים נשיים אלגנטיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-17dk6nde3" style="">
           <div class="index-cat-image-overlay" aria-hidden="true"></div>
         </div>
         <div class="index-cat-body">
@@ -1301,7 +1301,7 @@
       <!-- Card 4: בשמים -->
       <article class="index-cat-card index-cat-card--perfumes" data-grid-item-index="3">
         <div class="index-cat-image-wrap">
-          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-4" data-context="Luxury perfume bottles artfully arranged on a warm cream marble surface with soft golden light — tall glass flacons with gold caps, rose petals scattered around, soft bokeh background. Premium beauty editorial photography." width="600" height="800" src="/assets/site-index-categories-image-4.webp" alt="בשמים יוקרתיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-eiutdjh3j" >
+          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-4" data-context="Luxury perfume bottles artfully arranged on a warm cream marble surface with soft golden light — tall glass flacons with gold caps, rose petals scattered around, soft bokeh background. Premium beauty editorial photography." width="600" height="800" src="/assets/site-index-categories-image-4.webp" alt="בשמים יוקרתיים של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-eiutdjh3j" style="">
           <div class="index-cat-image-overlay" aria-hidden="true"></div>
         </div>
         <div class="index-cat-body">
@@ -1317,7 +1317,7 @@
       <!-- Card 5: טיפוח ויופי -->
       <article class="index-cat-card index-cat-card--beauty" data-grid-item-index="4">
         <div class="index-cat-image-wrap">
-          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-5" data-context="Luxury skincare and beauty products flat lay on a soft blush pink surface — elegant cream jars, serums, rose quartz facial roller, and delicate floral accents. Warm soft light, premium spa and beauty aesthetic, editorial photography." width="600" height="800" src="/assets/site-index-categories-image-5.webp" alt="מוצרי טיפוח ויופי של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-yp6pwunq7" >
+          <img loading="lazy" decoding="async" data-placeholder="index-categories-image-5" data-context="Luxury skincare and beauty products flat lay on a soft blush pink surface — elegant cream jars, serums, rose quartz facial roller, and delicate floral accents. Warm soft light, premium spa and beauty aesthetic, editorial photography." width="600" height="800" src="/assets/site-index-categories-image-5.webp" alt="מוצרי טיפוח ויופי של HANEEN KARMANJI" data-element-type="image" data-element-id="img-1778857274386-yp6pwunq7" style="">
           <div class="index-cat-image-overlay" aria-hidden="true"></div>
         </div>
         <div class="index-cat-body">
@@ -1384,7 +1384,7 @@
         <!-- Card 2 -->
         <article class="showcase-card" data-grid-item-index="1">
           <div class="showcase-card-image-wrap">
-            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-2" data-context="Luxury structured leather handbag in warm camel beige tone, minimal hardware gold details, photographed on clean off-white background, high-end fashion boutique editorial, soft shadow, 3:4 portrait" width="480" height="640" src="/assets/site-index-showcase-image-2.webp" alt="תיק עור מובנה" data-element-type="image" data-element-id="img-1778857274386-igeji255k" >
+            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-2" data-context="Luxury structured leather handbag in warm camel beige tone, minimal hardware gold details, photographed on clean off-white background, high-end fashion boutique editorial, soft shadow, 3:4 portrait" width="480" height="640" src="/assets/site-index-showcase-image-2.webp" alt="תיק עור מובנה" data-element-type="image" data-element-id="img-1778857274386-igeji255k" style="">
             <span class="showcase-badge">הנמכר ביותר</span>
           </div>
           <div class="showcase-card-body">
@@ -1397,7 +1397,7 @@
         <!-- Card 3 -->
         <article class="showcase-card" data-grid-item-index="2">
           <div class="showcase-card-image-wrap">
-            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-3" data-context="Elegant glass perfume bottle with gold cap, amber-tinted liquid inside, surrounded by soft rose petals and dried botanicals on a marble surface, luxury beauty editorial photography, warm light" width="480" height="640" src="/assets/site-index-showcase-image-3.webp" alt="בושם יוקרתי" data-element-type="image" data-element-id="img-1778857274386-6losjhgs6" >
+            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-3" data-context="Elegant glass perfume bottle with gold cap, amber-tinted liquid inside, surrounded by soft rose petals and dried botanicals on a marble surface, luxury beauty editorial photography, warm light" width="480" height="640" src="/assets/site-index-showcase-image-3.webp" alt="בושם יוקרתי" data-element-type="image" data-element-id="img-1778857274386-6losjhgs6" style="">
             <span class="showcase-badge">הנמכר ביותר</span>
           </div>
           <div class="showcase-card-body">
@@ -1438,7 +1438,7 @@
         <!-- Card 4 -->
         <article class="showcase-card showcase-card--new" data-grid-item-index="0">
           <div class="showcase-card-image-wrap">
-            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-4" data-context="Feminine flowy midi dress in soft blush pink silk or satin fabric, elegant drape silhouette, photographed on clean neutral background, luxury fashion editorial, minimal styling, 3:4 portrait ratio" width="480" height="640" src="/assets/site-index-showcase-image-4.webp" alt="שמלת מידי רכה" data-element-type="image" data-element-id="img-1778857274386-oyjr1yprk" >
+            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-4" data-context="Feminine flowy midi dress in soft blush pink silk or satin fabric, elegant drape silhouette, photographed on clean neutral background, luxury fashion editorial, minimal styling, 3:4 portrait ratio" width="480" height="640" src="/assets/site-index-showcase-image-4.webp" alt="שמלת מידי רכה" data-element-type="image" data-element-id="img-1778857274386-oyjr1yprk" style="">
             <span class="showcase-badge showcase-badge--new" style="color: rgb(44, 38, 35) !important;">חדש</span>
           </div>
           <div class="showcase-card-body">
@@ -1451,7 +1451,7 @@
         <!-- Card 5 -->
         <article class="showcase-card showcase-card--new" data-grid-item-index="1">
           <div class="showcase-card-image-wrap">
-            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-5" data-context="Luxury skincare set with elegant glass bottles and cream jars, rose gold caps, arranged on marble surface with soft pink rose petals, high-end beauty brand editorial photography, warm ambient light" width="480" height="640" src="/assets/site-index-showcase-image-5.webp" alt="סט טיפוח יוקרתי" data-element-type="image" data-element-id="img-1778857274386-bh3j77xlc" >
+            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-5" data-context="Luxury skincare set with elegant glass bottles and cream jars, rose gold caps, arranged on marble surface with soft pink rose petals, high-end beauty brand editorial photography, warm ambient light" width="480" height="640" src="/assets/site-index-showcase-image-5.webp" alt="סט טיפוח יוקרתי" data-element-type="image" data-element-id="img-1778857274386-bh3j77xlc" style="">
             <span class="showcase-badge showcase-badge--new" style="color: rgb(44, 38, 35) !important;">חדש</span>
           </div>
           <div class="showcase-card-body">
@@ -1464,7 +1464,7 @@
         <!-- Card 6 -->
         <article class="showcase-card showcase-card--new" data-grid-item-index="2">
           <div class="showcase-card-image-wrap">
-            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-6" data-context="Elegant pearl and gold drop earrings with intricate craftsmanship, photographed on soft cream velvet surface, luxury jewelry editorial, close-up detail shot with warm bokeh background, 3:4 portrait" width="480" height="640" src="/assets/site-index-showcase-image-6.webp" alt="עגילי פנינה וזהב" data-element-type="image" data-element-id="img-1778857274386-iejbfnbm8" >
+            <img loading="lazy" decoding="async" data-placeholder="index-showcase-image-6" data-context="Elegant pearl and gold drop earrings with intricate craftsmanship, photographed on soft cream velvet surface, luxury jewelry editorial, close-up detail shot with warm bokeh background, 3:4 portrait" width="480" height="640" src="/assets/site-index-showcase-image-6.webp" alt="עגילי פנינה וזהב" data-element-type="image" data-element-id="img-1778857274386-iejbfnbm8" style="">
             <span class="showcase-badge showcase-badge--new" style="color: rgb(44, 38, 35) !important;">חדש</span>
           </div>
           <div class="showcase-card-body">
@@ -1697,7 +1697,6 @@
   
   
   <div data-integration="accessibility:toolbar"></div>
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
 
     <script src="/script.js"></script>
 
