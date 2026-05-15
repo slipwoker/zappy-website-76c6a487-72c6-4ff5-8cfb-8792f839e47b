@@ -669,7 +669,7 @@ HANEEN KARMANJI שינתה את כל מושג האופנה שלי. הבגדים 
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -1166,7 +1166,7 @@ HANEEN KARMANJI נולד מתוך אהבה עמוקה לאופנה וליופי 
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -1872,7 +1872,7 @@ HANEEN KARMANJI
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2390,7 +2390,7 @@ HANEEN KARMANJI
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2610,7 +2610,7 @@ Description: המוצרים שלנו - HANEEN KARMANJI
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2833,7 +2833,7 @@ Description: עגלת הקניות שלך
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -3239,7 +3239,7 @@ Description: תשלום
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -3469,7 +3469,7 @@ Description: התחברות לקוחות
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -3854,7 +3854,7 @@ Description: החשבון שלי
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -4101,7 +4101,7 @@ Description: תודה על ההזמנה
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -4324,7 +4324,7 @@ HANEEN KARMANJI מחויבת לשביעות רצון לקוחותיה. מדינ�
 לביצוע החזרה או לשאלות:
 
 
-אימייל: [business_email]
+אימייל: Haneenkarmanji@gmail.com
 
 
 טלפון: [business_phone]
@@ -4377,7 +4377,7 @@ HANEEN KARMANJI מחויבת לשביעות רצון לקוחותיה. מדינ�
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -4602,7 +4602,7 @@ Description: פרטי המוצר - HANEEN KARMANJI
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -4851,7 +4851,7 @@ Description: מוצרים - HANEEN KARMANJI
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -5085,7 +5085,7 @@ HANEEN KARMANJI ("החברה", "אנו", "שלנו") מחויבת להגן על 
 
 - חברה: HANEEN KARMANJI
 
-- אימייל: [business_email]
+- אימייל: Haneenkarmanji@gmail.com
 
 - טלפון: [business_phone]
 
@@ -5143,7 +5143,7 @@ HANEEN KARMANJI ("החברה", "אנו", "שלנו") מחויבת להגן על 
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -5358,7 +5358,7 @@ HANEEN KARMANJI מחויבת להנגיש את השירותים לכלל הצי�
 
 - חברה: HANEEN KARMANJI
 
-- אימייל: [business_email]
+- אימייל: Haneenkarmanji@gmail.com
 
 - טלפון: [business_phone]
 
@@ -5417,7 +5417,7 @@ HANEEN KARMANJI מחויבת להנגיש את השירותים לכלל הצי�
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -5655,7 +5655,7 @@ HANEEN KARMANJI מספקת Fashion & Beauty דרך האתר. השירותים כ
 
 - חברה: HANEEN KARMANJI
 
-- אימייל: [business_email]
+- אימייל: Haneenkarmanji@gmail.com
 
 - טלפון: [business_phone]
 
@@ -5710,7 +5710,7 @@ HANEEN KARMANJI מספקת Fashion & Beauty דרך האתר. השירותים כ
 
 #### יצירת קשר
 
-- [business_email]
+- Haneenkarmanji@gmail.com
 - [business_phone]
 - [business_address]
 
