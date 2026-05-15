@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 2**
 
 ### Golden Sequin Evening Dress
-https://www.haneenkarmanji.com/product/golden-sequin-evening-dress-189gve
+https://www.haneenkarmanji.com/product/golden-sequin-evening-dress-74eq0e
 - Price: 399.00 ILS (sale, was 620.00 ILS)
 - Availability: In stock
 - Category: בגדים
@@ -85,7 +85,7 @@ https://www.haneenkarmanji.com/product/golden-sequin-evening-dress-189gve
 - Image: https://www.haneenkarmanji.com/assets/product-1778856742512-1ex3m6.webp
 
 ### Necklace, 18K Gold Plated Steel
-https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-mrsv5i
+https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-uaa4wn
 - Price: 99.00 ILS (sale, was 130.00 ILS)
 - Availability: In stock
 - Category: תכשיטים
