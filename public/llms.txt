@@ -102,6 +102,54 @@ https://www.haneenkarmanji.com/en/product/:slug
 https://www.haneenkarmanji.com/en/category/:slug
 מוצרים - HANEEN KARMANJI
 
+### בית (AR)
+https://www.haneenkarmanji.com/ar/
+ברוכות הבאות לחוויית הקניות הפרימיום ביותר. תכשיטים, בגדים, בשמים וטיפוח עור — כל מה שאת צריכה בסגנון אלגנטי ומודרני. fashion of beauty במיטבו.
+
+### אודות המותג (AR)
+https://www.haneenkarmanji.com/ar/about
+HANEEN KARMANJI נולדה מתוך אהבה עמוקה לאסתטיקה נשית עדינה. גלי את הערכים, החזון והתשוקה שהפכו את המותג לחוויית fashion and beauty websites שאין כמותה.
+
+### חוויית הקולקציות (AR)
+https://www.haneenkarmanji.com/ar/collections-experience
+חווי עולם שלם של beauty beast fashion עם קולקציות מאוצרות של תכשיטים, תיקים, בגדים ובשמים. כל פריט נבחר בקפידה כדי להעניק לך תחושת יוקרה בלתי נשכחת.
+
+### צור קשר (AR)
+https://www.haneenkarmanji.com/ar/contact
+יש לך שאלה, בקשה מיוחדת או סתם רוצה לדעת עוד? צוות HANEEN KARMANJI כאן בשבילך. צרי קשר עכשיו וקבלי שירות אישי ברמה של fashion and beauty websites מהשורה הראשונה.
+
+### Products (AR)
+https://www.haneenkarmanji.com/ar/products
+המוצרים שלנו - HANEEN KARMANJI
+
+### Cart (AR)
+https://www.haneenkarmanji.com/ar/cart
+עגלת הקניות שלך
+
+### Checkout (AR)
+https://www.haneenkarmanji.com/ar/checkout
+תשלום
+
+### Login (AR)
+https://www.haneenkarmanji.com/ar/login
+התחברות לקוחות
+
+### Account (AR)
+https://www.haneenkarmanji.com/ar/account
+החשבון שלי
+
+### Order Success (AR)
+https://www.haneenkarmanji.com/ar/order-success
+תודה על ההזמנה
+
+### Product Detail (AR)
+https://www.haneenkarmanji.com/ar/product/:slug
+פרטי המוצר - HANEEN KARMANJI
+
+### Category (AR)
+https://www.haneenkarmanji.com/ar/category/:slug
+מוצרים - HANEEN KARMANJI
+
 ## Legal & Policy
 
 ### Privacy Policy
