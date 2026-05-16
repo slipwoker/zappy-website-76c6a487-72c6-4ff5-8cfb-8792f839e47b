@@ -13123,6 +13123,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   flex-direction: row !important;
   align-items: center !important;
 }
+
+.navbar .nav-right-group .zappy-lang-switcher {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
