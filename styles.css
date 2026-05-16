@@ -13127,6 +13127,34 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .navbar .nav-right-group .zappy-lang-switcher {
   display: none !important;
 }
+
+.nav-ecommerce-icons.nav-icons-left {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 4px !important;
+  flex-wrap: nowrap !important;
+}
+
+.nav-ecommerce-icons.nav-icons-left .nav-search-box {
+  order: 1 !important;
+}
+
+.nav-ecommerce-icons.nav-icons-left #zappy-lang-switcher-inline {
+  order: 2 !important;
+  margin-inline-start: 0 !important;
+  margin-inline-end: 0 !important;
+}
+
+.nav-ecommerce-icons.nav-icons-left > p {
+  order: 3 !important;
+}
+
+#zls-trigger-inline svg:first-child {
+  width: 15px !important;
+  height: 15px !important;
+  flex-shrink: 0 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
