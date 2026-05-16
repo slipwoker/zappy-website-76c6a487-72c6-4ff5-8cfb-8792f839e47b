@@ -13107,6 +13107,22 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 }
 /* /Zappy custom logo size */
 
+
+.navbar .zappy-lang-switcher {
+  display: none !important;
+}
+
+.navbar .nav-ecommerce-icons.nav-icons-left {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+}
+
+.navbar .nav-right-group {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
