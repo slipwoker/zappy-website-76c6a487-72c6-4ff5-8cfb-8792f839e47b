@@ -13138,6 +13138,146 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .index-hero-section {
   padding-bottom: 0 !important;
 }
+
+.nav-info-dropdown {
+  position: relative;
+}
+
+.nav-info-dropdown > a.nav-info-dropdown-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.nav-info-dropdown .nav-info-arrow {
+  display: inline-block;
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+
+.nav-info-dropdown.open .nav-info-arrow {
+  transform: rotate(180deg);
+  opacity: 1;
+}
+
+.nav-info-submenu {
+  display: block;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  min-width: 190px;
+  background: #FFFFFF;
+  border: 1px solid rgba(200, 169, 107, 0.25);
+  border-radius: 10px;
+  box-shadow: 0 12px 40px rgba(44, 24, 16, 0.13), 0 2px 8px rgba(44, 24, 16, 0.06);
+  padding: 8px 0;
+  margin: 0;
+  list-style: none;
+  z-index: 9999;
+  transform: translateY(-6px);
+  transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              visibility 0s linear 0.25s;
+}
+
+.nav-info-submenu::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 16px;
+  left: 16px;
+  height: 1.5px;
+  background: linear-gradient(90deg, transparent, var(--accent-color) 40%, var(--accent-color) 60%, transparent);
+  border-radius: 2px;
+}
+
+.nav-info-dropdown.open .nav-info-submenu {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+  transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+              visibility 0s linear 0s;
+}
+
+.nav-info-submenu li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-info-submenu li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--background-color) !important;
+  text-decoration: none;
+  transition: background 0.18s ease, color 0.18s ease;
+  border-radius: 0;
+  direction: rtl;
+}
+
+.nav-info-submenu li a:hover {
+  background: rgba(200, 169, 107, 0.07);
+  color: var(--accent-color) !important;
+}
+
+.nav-info-submenu li a:hover .nav-info-icon {
+  color: var(--accent-color);
+  opacity: 1;
+}
+
+.nav-info-icon {
+  font-size: 0.45rem;
+  color: var(--accent-color);
+  opacity: 0.7;
+  flex-shrink: 0;
+  transition: opacity 0.18s ease;
+}
+
+@media (max-width: 768px) {
+.nav-info-submenu {
+  position: static;
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+  transform: none;
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  padding: 0 0 0 16px;
+  border-right: 2px solid rgba(200, 169, 107, 0.35);
+  margin-top: 6px;
+  transition: none;
+}
+
+.nav-info-submenu::before {
+  content: '';
+  display: none;
+}
+
+.nav-info-submenu li a {
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  color: var(--nav-text, var(--background-color)) !important;
+}
+
+.nav-info-dropdown .nav-info-arrow {
+  display: none;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -13630,6 +13770,25 @@ nav .sub-menu.zappy-empty-submenu,
   section[class*="-hero-section"]:first-of-type,
   main > section:first-child {
     padding-top: 100px !important;
+  }
+
+  /* Split hero (.hero-sbs-wrap) already applies ~100px top padding for the navbar.
+     Without this override, the global rule above stacks and mobile shows ~200px
+     of dead air above the hero image. */
+  main > section:first-child:has(.hero-sbs-wrap),
+  section[class*="-hero-section"]:first-of-type:has(.hero-sbs-wrap) {
+    padding-top: 0 !important;
+  }
+
+  /* Zoom-crop hero portraits: anchor with inset:0 so RTL/LTR matches and cover
+     cropping stays centered (physical left:0 absolute imgs can mis-read in RTL). */
+  .hero-sbs-image-frame [data-zappy-zoom-wrapper="true"] img {
+    inset: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: none !important;
+    object-fit: cover !important;
+    object-position: center center !important;
   }
   
   /* ========== HERO CONTAINER FULL-WIDTH (FULLSCREEN HEROES ONLY) ========== */
