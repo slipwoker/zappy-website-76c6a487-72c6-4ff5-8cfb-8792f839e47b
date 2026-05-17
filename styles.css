@@ -13420,6 +13420,14 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .navbar .nav-mobile-only {
   display: none !important;
 }
+
+.navbar .nav-menu li.nav-mobile-only {
+  display: none !important;
+}
+
+.navbar .nav-menu li.nav-desktop-only {
+  display: list-item !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
