@@ -13107,6 +13107,33 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 }
 /* /Zappy custom logo size */
 
+
+.index-hero-section .hero-video-background {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 0 !important;
+  overflow: hidden !important;
+}
+
+.index-hero-section .hero-video-background video,
+.index-hero-section .hero-video-background .hero-video-fallback {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.index-hero-section .index-hero-content {
+  position: relative;
+  z-index: 10;
+}
+
+.index-hero-section .index-hero-scrim {
+  z-index: 1;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
