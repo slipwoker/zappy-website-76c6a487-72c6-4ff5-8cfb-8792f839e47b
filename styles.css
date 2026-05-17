@@ -13134,6 +13134,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .index-hero-section .index-hero-scrim {
   z-index: 1;
 }
+
+.index-hero-section {
+  padding-bottom: 0 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
