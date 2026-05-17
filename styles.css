@@ -13092,170 +13092,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 
 /* ZAPPY_POSTGEN_GUARD_HERO_TYPO:בית-hero (index-hero) — stripped 1 jarring hero headline effect(s) */
 
-
-
-
-.navbar .zappy-lang-switcher {
-  display: none !important;
-}
-
-.navbar .nav-ecommerce-icons.nav-icons-left {
-  display: flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-}
-
-.navbar .nav-right-group {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-}
-
-.navbar .nav-right-group .zappy-lang-switcher {
-  display: none !important;
-}
-
-.nav-ecommerce-icons.nav-icons-left {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  gap: 4px !important;
-  flex-wrap: nowrap !important;
-}
-
-.nav-ecommerce-icons.nav-icons-left .nav-search-box {
-  order: 1 !important;
-}
-
-.nav-ecommerce-icons.nav-icons-left #zappy-lang-switcher-inline {
-  order: 2 !important;
-  margin-inline-start: 0 !important;
-  margin-inline-end: 0 !important;
-}
-
-.nav-ecommerce-icons.nav-icons-left > p {
-  order: 3 !important;
-}
-
-#zls-trigger-inline svg:first-child {
-  width: 15px !important;
-  height: 15px !important;
-  flex-shrink: 0 !important;
-}
-
-.nav-ecommerce-icons.nav-icons-right {
-  display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  gap: 8px !important;
-  visibility: visible !important;
-  width: auto !important;
-  height: auto !important;
-}
-
-.nav-ecommerce-icons.nav-icons-right .login-link,
-.nav-ecommerce-icons.nav-icons-right .nav-search-toggle {
-  display: inline-flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  width: auto !important;
-  height: auto !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  position: static !important;
-}
-
-.navbar .cart-icon,
-.navbar .login-icon,
-.navbar .search-icon,
-.navbar .nav-search-btn svg {
-  width: 15px !important;
-  height: 15px !important;
-}
-
-.navbar .cart-link svg,
-.navbar .login-link svg {
-  width: 15px !important;
-  height: 15px !important;
-}
-
-.navbar .cart-count {
-  font-size: 0.6rem !important;
-  width: 14px !important;
-  height: 14px !important;
-  line-height: 14px !important;
-}
-
-.navbar .nav-menu a {
-  font-size: 0.8rem !important;
-}
-
-.navbar .zls-trigger {
-  font-size: 0.7rem !important;
-  padding: 4px 8px !important;
-}
-
-.navbar .zls-trigger svg {
-  width: 13px !important;
-  height: 13px !important;
-}
 /* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
 @media (min-width: 769px) {
   .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
     max-height: none !important;
-    height: 64px !important;
-    max-width: 256px !important;
+    height: 60px !important;
+    max-width: 240px !important;
     width: auto !important;
     object-fit: contain !important;
   }
   .nav-container {
-    min-height: 94px !important;
+    min-height: 90px !important;
   }
 }
 /* /Zappy custom logo size */
 
-
-.navbar .cart-icon,
-.navbar .login-icon,
-.navbar .search-icon,
-.navbar .nav-search-btn svg,
-.navbar .cart-link svg,
-.navbar .login-link svg,
-.navbar .nav-search-toggle svg,
-.navbar .nav-icons-left svg,
-.navbar .nav-icons-right svg {
-  width: 15px !important;
-  height: 15px !important;
-}
-
-.navbar .cart-count {
-  font-size: 0.6rem !important;
-  width: 14px !important;
-  height: 14px !important;
-  line-height: 14px !important;
-  min-width: 14px !important;
-}
-
-.navbar .nav-menu a {
-  font-size: 0.8rem !important;
-}
-
-.navbar .zls-trigger {
-  font-size: 0.7rem !important;
-  padding: 4px 8px !important;
-}
-
-.navbar .zls-trigger svg {
-  width: 13px !important;
-  height: 13px !important;
-}
-
-.nav-ecommerce-icons.nav-icons-left p {
-  margin: 0 !important;
-  padding: 0 !important;
-  display: flex !important;
-  align-items: center !important;
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
