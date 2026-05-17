@@ -13472,6 +13472,18 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .featured-categories-section {
   display: none !important;
 }
+
+.featured-products-section {
+  display: block !important;
+}
+
+.featured-categories-section {
+  display: block !important;
+}
+
+.index-hero-section .zappy-section-video-bg {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
