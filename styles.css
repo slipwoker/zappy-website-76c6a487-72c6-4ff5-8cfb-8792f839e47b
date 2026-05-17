@@ -13350,6 +13350,76 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   font-size: 1rem;
 }
 }
+
+.navbar .nav-desktop-only {
+  display: list-item;
+}
+
+.navbar .nav-mobile-only {
+  display: none;
+}
+
+.navbar .nav-more-btn {
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--nav-text, var(--background-color));
+  cursor: pointer;
+  padding: 8px 12px;
+  white-space: nowrap;
+}
+
+.navbar .nav-more-btn:hover {
+  color: var(--accent, var(--accent-color));
+}
+
+.navbar .nav-more-dropdown .nav-more-submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: var(--nav-bg, #FCFAF7);
+  border: 1px solid var(--border-light, #E7DDD2);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(44,38,35,0.12);
+  min-width: 160px;
+  z-index: 9999;
+  list-style: none;
+  padding: 6px 0;
+  margin: 0;
+}
+
+.navbar .nav-more-dropdown.open .nav-more-submenu {
+  display: block;
+}
+
+.navbar .nav-more-dropdown .nav-more-submenu li a {
+  display: block;
+  padding: 10px 16px;
+  font-size: 0.9rem;
+  color: var(--nav-text, var(--background-color));
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.navbar .nav-more-dropdown .nav-more-submenu li a:hover {
+  color: var(--accent, var(--accent-color));
+  background: var(--primary, var(--primary-color));
+}
+
+.navbar .nav-more-dropdown {
+  position: relative;
+}
+
+.navbar .nav-desktop-only {
+  display: list-item !important;
+}
+
+.navbar .nav-mobile-only {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
