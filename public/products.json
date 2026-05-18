@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-18T20:54:49.677Z",
+  "generated_at": "2026-05-18T21:02:24.152Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
   "count": 2,
@@ -38,13 +38,13 @@
     },
     {
       "id": "1ba84c45-f175-4884-b462-2c71c5240440",
-      "slug": "necklace-18k-gold-plated-steel-uaa4wn",
+      "slug": "necklace-18k-gold-plated-steel-gimynj",
       "name": "Necklace, 18K Gold Plated Steel",
       "name_translations": {
         "en": "Necklace, 18K Gold Plated Steel",
         "he": "שרשרת, פלדה מצופה זהב 18K"
       },
-      "description": "<p><strong>HANEEN KARMANJI Necklace</strong></p><p><br></p><p>A delicate and elegant necklace designed to add a soft luxury touch to your everyday style.</p><p><br></p><p>Details:</p><p>Material: Stainless steel with gold plating</p><p>Closure Type: Lobster claw</p><p>Stone: Cubic zirconia</p><p>Necklace Length: 41 + 5 cm extension</p><p>Pendant Size: 1.5 × 1.3 cm</p><p>Weight: 3 g</p><p><br></p><p>Crafted to be <strong>waterproof</strong>, <strong>hypoallergenic</strong>, and comfortable for daily wear. The gold plating is designed to stay beautiful, with<strong> long-lasting shine and tarnish-resistant quality.</strong></p>",
+      "description": "<p><strong>HANEEN KARMANJI Necklace</strong></p><p><br></p><p>A delicate and elegant necklace designed to add a soft luxury touch to your everyday style.</p><p><br></p><p>Details:</p><p><br></p><p>Material: Stainless steel with gold plating</p><p><br></p><p>Closure Type: Lobster claw</p><p><br></p><p>Stone: Cubic zirconia</p><p><br></p><p>Necklace Length: 41 + 5 cm extension</p><p><br></p><p>Pendant Size: 1.5 × 1.3 cm</p><p><br></p><p>Weight: 3 g</p><p><br></p><p><br></p><p>Crafted to be <strong>waterproof</strong>, <strong>hypoallergenic</strong>, and comfortable for daily wear. The gold plating is designed to stay beautiful, with<strong> long-lasting shine and tarnish-resistant quality.</strong></p>",
       "short_description": "Elegant HANEEN KARMANJI necklace in gold-plated stainless steel with cubic zirconia. Waterproof, hypoallergenic, and tarnish-resistant for everyday wear.",
       "sku": "HK-N001",
       "brand": "HANEEN KARMANJI",
@@ -58,11 +58,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-uaa4wn",
+      "url": "https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-gimynj",
       "categories": [
         "תכשיטים"
       ],
-      "updated_at": "2026-05-15T18:40:52.307Z"
+      "updated_at": "2026-05-18T21:01:53.324Z"
     }
   ]
 }
