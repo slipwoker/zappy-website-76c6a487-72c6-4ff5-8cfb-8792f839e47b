@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-18T21:02:24.152Z",
+  "generated_at": "2026-05-18T21:03:56.249Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
   "count": 2,
@@ -38,7 +38,7 @@
     },
     {
       "id": "1ba84c45-f175-4884-b462-2c71c5240440",
-      "slug": "necklace-18k-gold-plated-steel-gimynj",
+      "slug": "necklace-18k-gold-plated-steel-muegcx",
       "name": "Necklace, 18K Gold Plated Steel",
       "name_translations": {
         "en": "Necklace, 18K Gold Plated Steel",
@@ -58,11 +58,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-gimynj",
+      "url": "https://www.haneenkarmanji.com/product/necklace-18k-gold-plated-steel-muegcx",
       "categories": [
         "תכשיטים"
       ],
-      "updated_at": "2026-05-18T21:01:53.324Z"
+      "updated_at": "2026-05-18T21:03:25.304Z"
     }
   ]
 }
