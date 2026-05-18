@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-17T15:59:48.684Z",
+  "generated_at": "2026-05-18T20:54:49.677Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
   "count": 2,
   "products": [
     {
       "id": "bcbe6d38-d652-461a-9133-96dc9dfc6dcb",
-      "slug": "golden-sequin-evening-dress-74eq0e",
+      "slug": "golden-sequin-evening-dress-txj0sz",
       "name": "Golden Sequin Evening Dress",
       "name_translations": {
         "en": "Golden Sequin Evening Dress",
@@ -16,7 +16,7 @@
       "description": "<p><strong>Gold Sequin Halter Maxi Dress</strong></p><p>Elegant and glamorous gold sequin maxi dress, designed with a fitted bodycon silhouette that highlights the figure beautifully. The dress features a sleeveless halter neckline, ruched detailing, and sparkling sequin fabric for a luxurious evening look. Perfect for weddings, birthday parties, evening events, formal occasions, and special celebrations.</p><p><strong>Specifications:</strong></p><p>Material: Sequins / Polyester blend</p><p>Color: Gold / Same as picture</p><p>Neckline: Halter neck</p><p>Sleeves: Sleeveless</p><p>Length: Maxi / Long dress</p><p>Fit: Slim fit / Bodycon</p><p>Design: Ruched details with full sequin finish</p><p>Closure: Back zipper</p><p>Occasion: Party, evening, wedding, birthday, formal event</p><p>Style: Elegant, sexy, luxury evening wear</p>",
       "short_description": "Gold sequin halter maxi dress with a fitted silhouette and elegant ruched details.",
       "sku": "HK-DRESS-001",
-      "brand": "ANEEN KARMANJI",
+      "brand": "HANEEN KARMANJI",
       "price": 399,
       "base_price": 620,
       "sale_price": 399,
@@ -30,11 +30,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.haneenkarmanji.com/product/golden-sequin-evening-dress-74eq0e",
+      "url": "https://www.haneenkarmanji.com/product/golden-sequin-evening-dress-txj0sz",
       "categories": [
         "בגדים"
       ],
-      "updated_at": "2026-05-15T18:40:11.717Z"
+      "updated_at": "2026-05-18T20:54:18.825Z"
     },
     {
       "id": "1ba84c45-f175-4884-b462-2c71c5240440",
