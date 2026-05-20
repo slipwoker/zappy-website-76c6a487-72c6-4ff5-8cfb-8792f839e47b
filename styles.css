@@ -13281,6 +13281,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   display: none;
 }
 }
+
+@media (min-width: 769px) {
+.nav-info-dropdown:hover .nav-info-submenu {
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  transform: translateY(0) !important;
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0s linear 0s !important;
+}
+
+.nav-info-dropdown:hover .nav-info-arrow {
+  transform: rotate(180deg);
+  opacity: 1;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
