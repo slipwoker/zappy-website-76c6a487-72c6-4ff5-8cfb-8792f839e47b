@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-20T10:13:00.230Z",
+  "generated_at": "2026-05-21T20:55:22.524Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "e4252dcf-35a8-4460-9ee6-a71969c13265",
+      "slug": "earrings-18k-gold-plated-steel-q6nkxj",
+      "name": "Earrings, 18K Gold Plated Steel",
+      "name_translations": {
+        "en": "Earrings, 18K Gold Plated Steel",
+        "he": "עגילים, פלדה מצופה זהב 18K"
+      },
+      "description": "<p>Material: Stainless steel, gold plating.</p><p><br></p><p>Closure Type: Pin.</p><p><br></p><p>Earrings Size: 2.1 x 2.2 cm.</p><p><br></p><p>Inserts: Cubic zirconia.</p><p><br></p><p>Haneen Karmanji jewelry is waterproof and hypoallergenic. The plating is long-lasting and tarnish-free.</p><p><br></p><p>Mass: 3 g</p>",
+      "short_description": "Elegant 18K gold-plated stainless steel earrings featuring vivid green cubic zirconia stones. Waterproof, hypoallergenic, lightweight, and perfect for a luxury everyday look.",
+      "sku": null,
+      "brand": "HANEEN KARMANJI",
+      "price": 147,
+      "base_price": 180,
+      "sale_price": 147,
+      "currency": "ILS",
+      "images": [
+        "https://www.haneenkarmanji.com/assets/product-1779396697238-8pi07l6.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779396705255-wd5acq.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779396713681-99gbfu.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779396721426-vjk63v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-q6nkxj",
+      "categories": [],
+      "updated_at": "2026-05-21T20:54:51.625Z"
+    },
     {
       "id": "bcbe6d38-d652-461a-9133-96dc9dfc6dcb",
       "slug": "golden-sequin-evening-dress-txj0sz",
