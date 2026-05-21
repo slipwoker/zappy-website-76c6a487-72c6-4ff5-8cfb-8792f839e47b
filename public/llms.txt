@@ -75,9 +75,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 3**
 
 ### Earrings, 18K Gold Plated Steel
-https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-q6nkxj
+https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-g176pe
 - Price: 147.00 ILS (sale, was 180.00 ILS)
 - Availability: In stock
+- Category: תכשיטים
 - Brand: HANEEN KARMANJI
 - Description: Elegant 18K gold-plated stainless steel earrings featuring vivid green cubic zirconia stones. Waterproof, hypoallergenic, lightweight, and perfect for a luxury everyday look.
 - Image: https://www.haneenkarmanji.com/assets/product-1779396697238-8pi07l6.webp

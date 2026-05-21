@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-21T20:55:22.524Z",
+  "generated_at": "2026-05-21T20:56:34.860Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
   "count": 3,
   "products": [
     {
       "id": "e4252dcf-35a8-4460-9ee6-a71969c13265",
-      "slug": "earrings-18k-gold-plated-steel-q6nkxj",
+      "slug": "earrings-18k-gold-plated-steel-g176pe",
       "name": "Earrings, 18K Gold Plated Steel",
       "name_translations": {
         "en": "Earrings, 18K Gold Plated Steel",
@@ -29,9 +29,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-q6nkxj",
-      "categories": [],
-      "updated_at": "2026-05-21T20:54:51.625Z"
+      "url": "https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-g176pe",
+      "categories": [
+        "תכשיטים"
+      ],
+      "updated_at": "2026-05-21T20:56:03.650Z"
     },
     {
       "id": "bcbe6d38-d652-461a-9133-96dc9dfc6dcb",
