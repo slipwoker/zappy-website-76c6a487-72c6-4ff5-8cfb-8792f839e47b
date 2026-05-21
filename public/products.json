@@ -1,13 +1,43 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-21T21:19:52.569Z",
+  "generated_at": "2026-05-21T21:24:42.623Z",
   "base_url": "https://www.haneenkarmanji.com",
   "currency": "ILS",
-  "count": 3,
+  "count": 4,
   "products": [
     {
+      "id": "3d1361e5-d325-4c59-b6d7-722b1a077f17",
+      "slug": "flower-meadow-bracelet-18k-gold-plated-steel-j5wqo6",
+      "name": "\"Flower Meadow\" Bracelet, 18K Gold Plated Steel",
+      "name_translations": {
+        "en": "\"Flower Meadow\" Bracelet, 18K Gold Plated Steel",
+        "he": "צמיד \"אחו פרחים\", פלדה מצופה זהב 18K"
+      },
+      "description": "<p>Material: Stainless steel, gold plating, enamel.</p><p>Bracelet Length: 17 + 5 cm.</p><p>Bracelet Width: 0.7 cm.</p><p>Inserts: No.</p><p>Mass: 3 g.</p><p>HANEEN KARMANJI jewelry is waterproof and hypoallergenic. The gold plating is long-lasting and tarnish-resistant.</p>",
+      "short_description": "Elegant HANEEN KARMANJI flower bracelet in gold-plated stainless steel with enamel details. Waterproof, hypoallergenic, tarnish-resistant, and perfect for everyday wear.",
+      "sku": null,
+      "brand": "HANEEN KARMANJI",
+      "price": 119,
+      "base_price": 170,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://www.haneenkarmanji.com/assets/product-ai-fit-1779398620932-p7h6ce.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779398576679-usgwyg.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779398584440-gbzmkt.webp",
+        "https://www.haneenkarmanji.com/assets/product-1779398591696-hxf9n6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.haneenkarmanji.com/product/flower-meadow-bracelet-18k-gold-plated-steel-j5wqo6",
+      "categories": [
+        "תכשיטים"
+      ],
+      "updated_at": "2026-05-21T21:24:11.419Z"
+    },
+    {
       "id": "e4252dcf-35a8-4460-9ee6-a71969c13265",
-      "slug": "earrings-18k-gold-plated-steel-g176pe",
+      "slug": "earrings-18k-gold-plated-steel-xkcbsl",
       "name": "Earrings, 18K Gold Plated Steel",
       "name_translations": {
         "en": "Earrings, 18K Gold Plated Steel",
@@ -22,18 +52,18 @@
       "sale_price": 147,
       "currency": "ILS",
       "images": [
-        "https://www.haneenkarmanji.com/assets/product-1779396697238-8pi07l6.webp",
+        "https://www.haneenkarmanji.com/assets/product-ai-fit-1779398672874-a8jbfv.webp",
         "https://www.haneenkarmanji.com/assets/product-1779396705255-wd5acq.webp",
         "https://www.haneenkarmanji.com/assets/product-1779396713681-99gbfu.webp",
         "https://www.haneenkarmanji.com/assets/product-1779396721426-vjk63v.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-g176pe",
+      "url": "https://www.haneenkarmanji.com/product/earrings-18k-gold-plated-steel-xkcbsl",
       "categories": [
         "תכשיטים"
       ],
-      "updated_at": "2026-05-21T20:58:11.301Z"
+      "updated_at": "2026-05-21T21:24:41.919Z"
     },
     {
       "id": "bcbe6d38-d652-461a-9133-96dc9dfc6dcb",
